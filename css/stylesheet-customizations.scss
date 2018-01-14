@@ -18,7 +18,8 @@ body {
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(FFE4C4, 25%);
+  $baseColor: #FFE4C4;
+  color: darken($baseColor, 15%);
   // color: silver;
 }
 
