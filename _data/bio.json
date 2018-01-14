@@ -50,8 +50,9 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Unix",
         "Ubuntu",
-        "Git/GitHub"
+        "SSH"
       ]
     }
   ],
@@ -68,7 +69,7 @@
       "startDate": "2015-08-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["ICS 211 - Data Structures", "ICS 311 - Algorithms"
       ]
     }
   ],
