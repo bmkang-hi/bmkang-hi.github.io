@@ -13,12 +13,13 @@ body {
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  $background-start: #e6fff2;
+  background: $background-start;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  $baseColor: #FFE4C4;
+  $baseColor: #ffe4c4;
   color: darken($baseColor, 15%);
   // color: silver;
 }
