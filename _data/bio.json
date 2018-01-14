@@ -55,6 +55,11 @@
       ]
     }
   ],
+  "languages": [
+    {
+      "language" : "Japanese"
+      "fluency" : "Intermediate"
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
