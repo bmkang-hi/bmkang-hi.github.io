@@ -29,7 +29,17 @@
   },
   "interests": [
     {
-      "name": "Artificial Intelligence", "Computer Learning",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computer learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Evolutionary algorithms",
       "keywords": [
       ]
     }
@@ -70,7 +80,8 @@
       "startDate": "2015-08-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 211 - Data Structures", "ICS 311 - Algorithms"
+      "courses": ["ICS 211 - Data Structures",
+                  "ICS 311 - Algorithms"
       ]
     }
   ],
