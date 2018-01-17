@@ -1,9 +1,9 @@
 ---
-layout: Mazes
+layout: project
 type: project
 published: true
 image: images/maze.png
-title: ProjectTitle
+title: Mazes
 permalink: projects/mazes
 # All dates must be YYYY-MM-DD format!
 date: 2016-03-09
