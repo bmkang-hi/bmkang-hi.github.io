@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript: A story of redemption
+title: "Javascript: A story of redemption"
 date: 2018-01-17
 labels:
   - Javascript
