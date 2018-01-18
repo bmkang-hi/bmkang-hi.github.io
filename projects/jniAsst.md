@@ -11,6 +11,6 @@ labels:
   - JNI
   - C
   - Java
-summary:
+summary: Coursework demonstrating ability to research and implement new techniques without direct instruction
 projecturl: https://github.com/bmkang-hi/C-function-via-JNI
 ---
