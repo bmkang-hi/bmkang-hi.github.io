@@ -21,4 +21,4 @@ The application uses the Java Native Interface (JNI) to make calls from a Java f
 
 This assignment had minimal direct instruction and was focused on the ability to do research and write code using techniques and libraries we had not yet been exposed to, independently
 
-Source [gitHub] https://github.com/bmkang-hi/C-function-via-JNI
+Source [GitHub](https://github.com/bmkang-hi/C-function-via-JNI "GitHub Repository")
