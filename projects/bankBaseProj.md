@@ -19,4 +19,4 @@ There is a 1.0 version written in C, which was rewritten in C++ as needed and ex
 
 Both projects were compiled and tested on a Unix server accessed through a SSH client and using the SCCS version control system. Most of the coding was done in the Eclipse IDE on Windows with Cygwin .
 
-Source code available [gitHub] https://github.com/bmkang-hi/Program-structure-proj2
+Source code available [GitHub] (https://github.com/bmkang-hi/Program-structure-proj2 "GitHub Repository")
