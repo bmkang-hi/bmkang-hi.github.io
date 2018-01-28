@@ -16,6 +16,6 @@ This an assignment from my past 200 level intro to Computer Science course taugh
 
 The assignment involved generating a maze from a text file representation and navigating the maze to the exit using iterative methods (later also done using recursive methods). The assignment used two classes provided by the TA, the Cell and Grid classes.
 
-In addition to the assigned maze generating from a text based maze I expanded the Maze class to be able to randomly generate an n by m maze from a set of symbols in a text file and attempt navigating the generated maze.
+In addition to the assigned maze generating from a text based maze I expanded the Maze class to be able to randomly generate an n by m maze from a set of symbols in a text file and attempt navigating the generated maze. This code is commented out as it wasn't needed for the actual assignment itself.
 
 Source code is available at [Github](https://github.com/bmkang-hi/Intro-to-CS-2-Maze "GitHub Repository")
