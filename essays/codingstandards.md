@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Code standards"
 # All dates must be YYYY-MM-DD format!
-date: YYYY-MM-DD
+date: 2018-02-08
 labels:
   - Learning
 ---
