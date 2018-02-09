@@ -13,8 +13,4 @@ I've learned programming from primarily formal education, and so, coding standar
 good application of Coding standards provide numerous benefits by enforcing a consistent set of rules for specific features of code, this helps by making the code more readable, more immediately understandable, more logically grouped, and makes more explicitly clear what code belongs to what scope. This allows you to write better code that is less prone to bugs because of how the style of code is formalized, and often bugs that do appear are somewhat easier to find because of the clearer organization.
 The main trouble with using coding standards is getting that good application, consistent across all code and well enforced. This is where the benefits of automation and IDE's come into play. Using a coding standard for Javascript, for example, ESlint combined with a good IDE has been extremely useful as you can see violations of code standard as you type both allowing you to correct them as you go. In addition, the standard that is being violated is also listed and you can jump to each violation in the code, teaching you how to write the code to avoid those problems without needing to dedicate extra time to studying a standard.
 
-
-
-
-
-
+Applying coding standards with many of the useful tools available seems likely to pay dividends on the work to get a system down with the time and effort saved in more quickly understanding and debugging code.
